@@ -4,7 +4,7 @@
 
 # Cybersecurity Hacktoberfest repository 
 
-**This repository contains two very basic  programmes one of which is focused on ``networking`` while other on </br> a very beginner yet very important vulnerability ``information gathering``**
+**This repository contains two very basic  programmes which one is focused on ``networking`` while other on </br> a very beginner yet very important vulnerability ``information gathering``**
 
 </br>
 
